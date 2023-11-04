@@ -9,3 +9,6 @@
 * Poznań
 * Gdańsk
 * Wrocław
+  
+[Policja Śląska - wiadomości](https://slaska.policja.gov.pl/kat/informacje/wiadomosci?page=1)
+[Onet Wiadomości](https://www.onet.pl)
