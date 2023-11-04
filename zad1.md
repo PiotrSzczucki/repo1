@@ -19,3 +19,7 @@
 **bold**
 
 $\sqrt{3x-1}+(1+x)^2$
+
+# Nagłówek 1
+## Nagłówek 2
+### Nagłówek 3
