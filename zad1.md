@@ -13,3 +13,9 @@
 [Policja Śląska - wiadomości](https://slaska.policja.gov.pl/kat/informacje/wiadomosci?page=1)
 
 [Onet Wiadomości](https://www.onet.pl)
+
+~~strikethrough~~
+*italic*
+**bold**
+
+$\sqrt{3x-1}+(1+x)^2$
