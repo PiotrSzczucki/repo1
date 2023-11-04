@@ -3,3 +3,9 @@
 1. Metro 2033
 2. Wiedźmin: Miecz Przeznaczenia
 3. Wiedźmin: Czas Pogardy
+
+* Warszawa
+* Kraków
+* Poznań
+* Gdańsk
+* Wrocław
